@@ -1,0 +1,32 @@
+package org.sample;
+import org.pompages.Registration;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+public class Adactin extends BaseClass {
+	
+		public static void main(String[] args) {
+			WebDriver d = launchBrowser();
+			launchUrl("http://www.adactin.com/HotelApp/");
+			maxBrowser();
+			pageTitle();
+			pageUrl();
+			Registration r = new Registration();
+		    WebElement element =r.getRegister();
+		    btnClick(element);
+		
+			
+			
+	
+			//WebElement user = d.findElement(By.id("username"));
+			//fill(user,"Sellenium");
+			//clickDouble(user);
+			//rightClick(user);
+		
+			
+			
+		}
+
+}

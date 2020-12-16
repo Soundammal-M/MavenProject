@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Eclipse Embedded C/C++</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-embedded-cc</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/gme-256.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/lionescu/listings&quot; title=&quot;Liviu Ionescu&quot;&gt;Liviu Ionescu&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2020-12-15 17:22&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2015-11-03 14:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Eclipse Embedded CDT (C/C++ Development Tools, formerly GNU MCU/ARM Eclipse) is an open source project that includes a family of Eclipse plug-ins and tools for multi-platform embedded Arm &amp;amp; RISC-V development, based on GNU toolchains.&lt;/p&gt;
+&lt;h3&gt;Comptibility&lt;/h3&gt;
+&lt;p&gt;Special precautions were taken to preserve &lt;strong&gt;compatibility with projects created by pre-6.x plug-ins,&lt;/strong&gt; such that user projects will continue to be accepted directly for Import, without modifications.&lt;/p&gt;
+&lt;p&gt;However, due to the way Eclipse manages perspectives and views, by caching some IDs, workspaces created with pre-6.x plug-ins may exhibit several problems when used directly.&lt;/p&gt;
+&lt;p&gt;To avoid such situations, it is recommended to &lt;strong&gt;create a new workspace&lt;/strong&gt; with the new release and &lt;strong&gt;import the projects &lt;/strong&gt;there.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 03 Nov 2015 19:04:04 +0000</pubDate>
+ <dc:creator>lionescu</dc:creator>
+ <guid isPermaLink="false">2593184 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-embedded-cc#comments</comments>
+  </item>
+  <item>
+    <title>CMake Editor</title>
+    <link>http://marketplace.eclipse.org/content/cmake-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2020-12-15 13:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%2215knots%22&quot;&gt;15knots&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-07-19 15:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mweber0xe/listings&quot; title=&quot;Martin Weber&quot;&gt;Martin Weber&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The plug-in provides:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Syntax highlighting for CMake defined variables, User defined Variables, Properties and Reserved Words&lt;/li&gt;
+&lt;li&gt;Basic hover support to show brief description of command or variable being hovered over.&lt;/li&gt;
+&lt;li&gt;Support for code templates to insert often used cmake code.&lt;/li&gt;
+&lt;li&gt;Preference Panel to set custom syntax highlighting colors.&lt;/li&gt;
+&lt;li&gt;Preference Panel to define custom code templates.&lt;/li&gt;
+&lt;li&gt;Keystroke short cuts to comment/uncomment blocks of code.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Browse &lt;a href=&quot;https://github.com/15knots/cmakeed&quot; rel=&quot;nofollow&quot;&gt;Project Site&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Suggested plugins&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;cmake4eclipse&quot; rel=&quot;nofollow&quot;&gt;cmake4eclipse&lt;/a&gt;, if your project uses cmake to build and the eclipse project is build with CDT&#039;s managed build system.&lt;/p&gt;
+&lt;h3&gt;Installation trouble?&lt;/h3&gt;
+&lt;p&gt;If You get a &lt;code&gt;javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure&lt;/code&gt;, please check&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stackoverflow.com/a/38264878&quot; rel=&quot;nofollow&quot;&gt;stack overflow&lt;/a&gt; and/or &lt;a href=&quot;https://github.com/gnuarmeclipse/plug-ins/issues/171#issuecomment-275907612&quot; rel=&quot;nofollow&quot;&gt;github&lt;/a&gt; to resolve.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 19 Jul 2016 19:29:45 +0000</pubDate>
+ <dc:creator>mweber0xe</dc:creator>
+ <guid isPermaLink="false">2983824 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/cmake-editor#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse XML Editors and Tools</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools-0</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wtp_logo_2010-80x80.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2020-12-15 05:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22The%20Eclipse%20Foundation%22&quot;&gt;The Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2016-06-30 18:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/nitind/listings&quot; title=&quot;Nitin Dahyabhai&quot;&gt;Nitin Dahyabhai&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Includes the XML, XML Schema, and DTD Editors and Tools, and XSL Developer Tools from the Eclipse Web Tools Platform project.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 30 Jun 2016 22:52:29 +0000</pubDate>
+ <dc:creator>nitind</dc:creator>
+ <guid isPermaLink="false">2953952 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools-0#comments</comments>
+  </item>
+  <item>
+    <title>SecHub</title>
+    <link>http://marketplace.eclipse.org/content/sechub</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/sechub-logo_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2020-12-15 05:28&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Daimler%20TSS%20GmbH%22&quot;&gt;Daimler TSS GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2020-09-28 17:06&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/adaimlertssgmbh/listings&quot; title=&quot;ATR Daimler TSS GmbH&quot;&gt;ATR Daimler TSS GmbH&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;An integration of &lt;a href=&quot;https://github.com/daimler/sechub&quot; rel=&quot;nofollow&quot;&gt;SecHub&lt;/a&gt; into Eclipse.&lt;/p&gt;
+&lt;p&gt;So developers have a comfortable way to read and handle SAST findings&lt;/p&gt;
+&lt;p&gt;Features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;import downloaded SecHub job reports from local filesystem and show findings in SecHub Report View&lt;/li&gt;
+&lt;li&gt;show call hierarchy and link with editor&lt;/li&gt;
+&lt;li&gt;provide MITRE links for finding with CWE-IDs&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/daimler/sechub-plugin-eclipse/issues&quot; rel=&quot;nofollow&quot;&gt;Issue tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/daimler/sechub-plugin-eclipse&quot; rel=&quot;nofollow&quot;&gt;Project site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Daimler/sechub-plugin-eclipse/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 28 Sep 2020 21:06:18 +0000</pubDate>
+ <dc:creator>adaimlertssgmbh</dc:creator>
+ <guid isPermaLink="false">5245585 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/sechub#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse OCL</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-ocl</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/image.png&quot; width=&quot;110&quot; height=&quot;48&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2020-12-14 14:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22eclipse.org%22&quot;&gt;eclipse.org&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2013-03-04 13:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/asanchez/listings&quot; title=&quot;Adolfo Sanchez-Barbudo Herrera&quot;&gt;Adolfo Sanchez-Barbudo Herrera&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Eclipse OCL is an implementation of the Object Constraint Language (OCL) OMG standard for EMF-based models. Eclipse OCL provides both:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;An implementation of the &lt;a href=&quot;http://www.omg.org/spec/OCL/2.4/&quot; rel=&quot;nofollow&quot;&gt;OCL 2.4&lt;/a&gt; standard specification (ISO/IEC 19507).&lt;/li&gt;
+&lt;li&gt;A prototypical implementation of the future OCL 2.5 specification.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Members of OMG &lt;a href=&quot;http://www.omg.org/issues/ocl2-rtf.open.html&quot; rel=&quot;nofollow&quot;&gt;OCL RTF&lt;/a&gt;(Revision Task Force) are actively involved with the Eclipse OCL project. The core OCL component provides the following capabilities to support OCL integration:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Defines APIs for parsing and evaluating OCL constraints and queries on Ecore or UML models.&lt;/li&gt;
+&lt;li&gt;Defines Ecore and UML implementations of the OCL abstract syntax model, including support for serialization of parsed OCL expressions.&lt;/li&gt;
+&lt;li&gt;Provides a Visitor API for analyzing/transforming the AST model of OCL expressions.&lt;/li&gt;
+&lt;li&gt;Provides an extensibility API for clients to customize the parsing and evaluation environments used by the parser.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The accompanying examples provide:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;A Console for interactive evaluation of OCL expression on models.&lt;/li&gt;
+&lt;li&gt;An Impact Analyzer to support analysis and optimised re-evaluation.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The additional OCL Examples and Editors component provides interactive support for OCL:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;An Xtext editor for OCL in Ecore (to define constraints in your Ecore models).&lt;/li&gt;
+&lt;li&gt;An Xtext editor for OCL expressions (used by Papyrus and the Console).&lt;/li&gt;
+&lt;li&gt;An Xtext editor for OCL documents complementing meta-models (Complete OCL).&lt;/li&gt;
+&lt;li&gt;An Xtext editor for the OCL &#039;Standard&#039; Library model.&lt;/li&gt;
+&lt;li&gt;A UML-aligned OCL meta-model supporting templates and reflection.&lt;/li&gt;
+&lt;li&gt;An OCL evaluator exploiting the extensible OCL library model.&lt;/li&gt;
+&lt;li&gt;An Xtext Console for interactive evaluation of OCL expression on models.&lt;/li&gt;
+&lt;li&gt;(Luna) Direct OCL to Java code generation (preliminary)&lt;/li&gt;
+&lt;li&gt;(Luna) A Validity View for detailed Constraint/ModelElement validity visualization&lt;/li&gt;
+&lt;li&gt;(Luna) An OCL debugger&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 04 Mar 2013 18:24:54 +0000</pubDate>
+ <dc:creator>asanchez</dc:creator>
+ <guid isPermaLink="false">710668 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-ocl#comments</comments>
+  </item>
+  <item>
+    <title>SQL DAL Maker</title>
+    <link>http://marketplace.eclipse.org/content/sql-dal-maker</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/sqldalmaker_24.png&quot; width=&quot;24&quot; height=&quot;24&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2020-12-14 01:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22.%22&quot;&gt;.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2011-08-02 18:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pmisingnameeok/listings&quot; title=&quot;panedrone Mising name&quot;&gt;panedrone Mising name&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SQL DAL Maker is a generator of DTO and DAO classes to access relational databases. Target programming languages: PHP, Java, C++, Python, Ruby. To generate the class, you declare it in XML meta-program.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/panedrone/sqldalmaker&quot; rel=&quot;nofollow&quot;&gt;https://github.com/panedrone/sqldalmaker&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 02 Aug 2011 22:05:21 +0000</pubDate>
+ <dc:creator>pmisingnameeok</dc:creator>
+ <guid isPermaLink="false">97312 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/sql-dal-maker#comments</comments>
+  </item>
+  <item>
+    <title>eclipse-pmd</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-pmd</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/eclipse-pmd-logo-110x80_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2020-12-13 07:14&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Philip%20Graf%22&quot;&gt;Philip Graf&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2013-06-22 05:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pgrafn2q/listings&quot; title=&quot;Philip Graf&quot;&gt;Philip Graf&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The &lt;a href=&quot;https://eclipse-pmd.github.io/&quot; rel=&quot;nofollow&quot;&gt;eclipse-pmd&lt;/a&gt; plug-in integrates the source code analyzer PMD into the Eclipse IDE. Everytime you save your work, eclipse-pmd scans your source code and looks for potential problems like possible bugs and suboptimal, duplicate, dead or overly complicated code. Where possible, eclipse-pmd offers quick fixes that automatically fix the problems. These quick fixes can be used to fix a single problem or all occurrences in your entire code base.&lt;/p&gt;
+&lt;p&gt;You can support the development of eclipse-pmd by &lt;a href=&quot;https://github.com/sponsors/eclipse-pmd&quot; rel=&quot;nofollow&quot;&gt;becoming a sponsor&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 22 Jun 2013 09:32:19 +0000</pubDate>
+ <dc:creator>pgrafn2q</dc:creator>
+ <guid isPermaLink="false">932046 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-pmd#comments</comments>
+  </item>
+  <item>
+    <title>ANSI Escape in Console</title>
+    <link>http://marketplace.eclipse.org/content/ansi-escape-console</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Icon110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2020-12-12 23:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Mihai%20Nita%22&quot;&gt;Mihai Nita&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2014-04-01 01:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mnita/listings&quot; title=&quot;Mihai Nita&quot;&gt;Mihai Nita&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This Eclipse plugin interprets the ANSI escape sequences to color the console output. It works for output text with escape sequences directly from Java, Groovy, C/C++, Perl, Python, or any other Eclipse hosted language that outputs text to the standard output or standard error.&lt;/p&gt;
+&lt;p&gt;Supports 16 colors / 256 colors / true-colors for foreground and background, color palettes, and attributes like bold, italic, underline, invert, conceal, strike, framed.&lt;/p&gt;
+&lt;p&gt;Unfortunately nothing that changes the content of the output (erase actions), or cursor positioning, because of the way the Eclipse console works.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&quot;https://github.com/mihnita/ansi-econsole/wiki&quot; rel=&quot;nofollow&quot;&gt;https://github.com/mihnita/ansi-econsole/wiki&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/ANSI_escape_code&quot; rel=&quot;nofollow&quot;&gt;https://en.wikipedia.org/wiki/ANSI_escape_code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And it is open source: &lt;a href=&quot;https://github.com/mihnita/ansi-econsole&quot; rel=&quot;nofollow&quot;&gt;https://github.com/mihnita/ansi-econsole&lt;/a&gt;&lt;br /&gt;
+That&#039;s where you can file a bug, ask for a feature, contribute a fix, or just say hi :-)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 01 Apr 2014 05:25:24 +0000</pubDate>
+ <dc:creator>mnita</dc:creator>
+ <guid isPermaLink="false">1592292 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ansi-escape-console#comments</comments>
+  </item>
+  <item>
+    <title>Ruby Solargraph</title>
+    <link>http://marketplace.eclipse.org/content/ruby-solargraph</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo_42.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pybigourdan/listings&quot; title=&quot;Pierre-Yves Bigourdan&quot;&gt;Pierre-Yves Bigourdan&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2020-12-12 15:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-04-26 16:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Modern Ruby development tools combining the powers of the Eclipse IDE and the Solargraph language server!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Currently supported features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Rich syntax highlighting and code folding&lt;/li&gt;
+&lt;li&gt;Code completion&lt;/li&gt;
+&lt;li&gt;Documentation hovers&lt;/li&gt;
+&lt;li&gt;Rename refactoring&lt;/li&gt;
+&lt;li&gt;Find references&lt;/li&gt;
+&lt;li&gt;Jump to declaration&lt;/li&gt;
+&lt;li&gt;Code outline&lt;/li&gt;
+&lt;li&gt;Run files as Ruby scripts with customisable launch configurations&lt;/li&gt;
+&lt;li&gt;Run &lt;em&gt;bundle install&lt;/em&gt; on Gemfiles and &lt;em&gt;gem build&lt;/em&gt; on gemspec files&lt;/li&gt;
+&lt;li&gt;Various other features part of the Language Server Protocol&lt;/li&gt;
+&lt;li&gt;Support for web development with ERB edition&lt;/li&gt;
+&lt;li&gt;Experimental debugger&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;This plugin is free and open-source. Support the project by starring the plugin on the marketplace and &lt;a href=&quot;https://github.com/PyvesB/eclipse-solargraph&quot; rel=&quot;nofollow&quot;&gt;on GitHub&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Tips and tricks:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;To improve code completion and intellisense, it is recommended to generate YARD documentation for your gems (run yard gems in a terminal).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;You can fine-tune Solargraph&#039;s behaviour on a per-project basis by creating a .solargraph.yml configuration file.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 26 Apr 2019 20:11:21 +0000</pubDate>
+ <dc:creator>pybigourdan</dc:creator>
+ <guid isPermaLink="false">4611382 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ruby-solargraph#comments</comments>
+  </item>
+  <item>
+    <title>pmd-eclipse-plugin</title>
+    <link>http://marketplace.eclipse.org/content/pmd-eclipse-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/pmd_logo.png&quot; width=&quot;109&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2020-12-12 06:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22PMD%22&quot;&gt;PMD&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2016-03-05 09:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/adangel/listings&quot; title=&quot;Andreas Dangel&quot;&gt;Andreas Dangel&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. It supports Java, JavaScript, Salesforce.com Apex and Visualforce, PLSQL, Apache Velocity, XML, XSL.&lt;/p&gt;
+&lt;p&gt;Additionally it includes CPD, the copy-paste-detector. CPD finds duplicated code in Java, C, C++, C#, Groovy, PHP, Ruby, Fortran, JavaScript, PLSQL, Apache Velocity, Scala, Objective C, Matlab, Python, Go, Swift and Salesforce.com Apex and Visualforce.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 05 Mar 2016 14:48:53 +0000</pubDate>
+ <dc:creator>adangel</dc:creator>
+ <guid isPermaLink="false">2755329 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/pmd-eclipse-plugin#comments</comments>
+  </item>
+  </channel>
+</rss>
